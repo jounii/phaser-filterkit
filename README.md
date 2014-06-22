@@ -25,6 +25,17 @@ Notes: The shader parameters were published and the texture randomness had some 
 with Phaser time uniform (seconds) over time. Shader modified so that it basically loops
 every 120 seconds and the texture rotation is randomized to certain angle range.
 
+SNoise
+------
+
+Original shader by Ian McEwan, Ashima Arts.
+
+https://github.com/ashima/webgl-noise
+
+Not sure if this is useful. Possibly with some tweaks and parameterization
+could make it more useful. But use this as base for other filters.
+
+
 License
 =======
 
